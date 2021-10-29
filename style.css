@@ -1,0 +1,58 @@
+body,html{
+    font-family: 'Bree Serif', serif;
+    font-size: 1rem;
+    background-image: linear-gradient(to right, aqua,  deeppink, goldenrod);
+    height: auto;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    margin-top: 4%;
+}
+
+#title{
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+}
+
+#number{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+#check {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    text-transform: uppercase;
+    background-color: blue;
+    color:white;
+    margin-left: 5px;
+}
+
+#hat{
+    padding-top: 2rem;
+    display: block;
+    margin: auto;
+}
+
+#text{
+    padding: 1rem 1rem 0.5rem 0;
+    font-size: 1.3em;
+}
+
+#attempt{
+    padding: 0 1rem 0 0;
+    font-size: 1.1em;
+}
+
+span{
+    color: red;
+    font-size: 2rem;
+}
