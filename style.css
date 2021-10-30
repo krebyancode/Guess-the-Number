@@ -56,3 +56,7 @@ span{
     color: red;
     font-size: 2rem;
 }
+
+button:hover{
+    cursor: pointer;
+}
